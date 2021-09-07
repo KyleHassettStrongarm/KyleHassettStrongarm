@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KyleHassettStrongarm
+- 👀 I’m interested in front end dev via react and then software engineering in general
+- 🌱 I’m currently learning ethereum dapps on my free time
+- 📫 How to reach me, send me a message or an email.
